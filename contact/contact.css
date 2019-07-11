@@ -1,0 +1,13 @@
+@media only screen and (min-width: 401px) and (max-width: 960px) {
+    .exp {
+        width:60%;
+        margin:auto;
+    }
+  }
+  
+ @media only screen and (min-width: 961px) {
+    .exp {
+        width:60%;
+        margin:auto;
+    } 
+  }  
